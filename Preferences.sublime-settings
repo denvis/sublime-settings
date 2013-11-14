@@ -1,0 +1,27 @@
+{
+	"caret_style": "blink",
+	"color_scheme": "Packages/Oceanic Color Scheme/Themes/Oceanic.tmTheme",
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"font_face": "source code pro",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		4,
+		8,
+		12,
+		16
+	],
+	"translate_spaces_to_tabs": true,
+	"translate_tabs_to_spaces": false
+}
