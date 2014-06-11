@@ -13,7 +13,14 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Jade",
+		"HTMLBeautify",
+		"Theme - Afterglow",
+		"ColorPick",
+		"HTML-CSS-JS Prettify",
+		"JSONLint",
+		"Markdown Extended"
 	],
 	"rulers":
 	[
